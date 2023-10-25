@@ -263,6 +263,7 @@ iframe{
 }
 .firma{
     text-align: center;
+    color: white;
 }
 
 @media only screen and (max-width:860px) {
