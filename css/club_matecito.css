@@ -130,6 +130,10 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	background-color: rgb(80, 112, 112);
+    min-height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 	
 }
 
@@ -308,6 +312,7 @@ main {
 
 .firma {
     color: white;
+    text-align: center;
 }
 
 .footer-row{
