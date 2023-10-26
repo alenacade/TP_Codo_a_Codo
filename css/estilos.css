@@ -276,3 +276,10 @@ body {
 .video-youtube2{
     margin-left: 22%;
 }
+@media only screen and (max-width:980px) {
+    .video-youtube2{
+        width: 300px;
+        margin-left: 22%;
+        
+    }
+}
