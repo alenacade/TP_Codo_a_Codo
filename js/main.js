@@ -43,19 +43,19 @@ let cad2 = `
                 <div class="footer-links">
                     <h4>MEDIOS DE PAGO</h4>
                         <ul>
-                            <a href="a"> <img width="50px" height="27px" src="./img/icon/visa1.jpg" alt=""></a><br>
-                            <a href="a"> <img width="50px" src="./img/icon/master1.jpg" alt=""></a><br>
-                            <a href="a"> <img width="50px" src="./img/icon/mercadopago.png" alt=""></a>
+                            <img width="50px" height="27px" src="./img/icon/visa1.jpg" alt=""><br>
+                            <img width="50px" src="./img/icon/master1.jpg" alt=""><br>
+                            <img width="50px" src="./img/icon/mercadopago.png" alt="">
                         </ul>
                 </div>
                     <div class="footer-links">
                         <h4>SIGUENOS</h4>
                         <div class="social-links">
                             <ul>
-                                <a href="a"><i class="fab fa-facebook-f "></i></a>
-                                <a href="a"><i class="fab fa-instagram "></i></a>
-                                <a href="a"><i class="fab fa-linkedin "></i></a>
-                                <a href="a"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/?locale=es_LA"><i class="fab fa-facebook-f "></i></a>
+                                <a href="https://www.instagram.com/"><i class="fab fa-instagram "></i></a>
+                                <a href="https://ar.linkedin.com/"><i class="fab fa-linkedin "></i></a>
+                                <a href="https://twitter.com/?lang=es"><i class="fab fa-twitter"></i></a>
                             </ul>
                         </div>
                     </div>
