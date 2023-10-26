@@ -1,4 +1,5 @@
 // Header de la pagina (solo html)
+// Este archivo no funciona
 let cad1 = `
 <div class="logo">Matecito</div>
 <input type="checkbox" id="toggle">
