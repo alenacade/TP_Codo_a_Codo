@@ -7,11 +7,11 @@ let cad1 = `
 <nav class="navigation">
 
     <ul>
-        <li><a href="..../index.html">Inicio</a></li>
-        <li><a href=".nosotros.html">Nosotros</a></li>
-        <li><a href=".club_matecito.html" >Club Matecito</a></li>
-        <li><a href=".contacto.html">Contacto</a></li>
-        <li><a href=".carrito.html">Carrito<i class="fa-solid fa-cart-shopping"></i></a>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="club_matecito.html" >Club Matecito</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+        <li><a href="carrito.html">Carrito<i class="fa-solid fa-cart-shopping"></i></a>
             <ul>
                 <li><a href="#mates">Mates</a></li>
                 <li><a href="#termos">Termos</a></li>
